@@ -1,6 +1,8 @@
-# LAL_Final_Spring25
+# No Translation!
+A Gemini-powered Viossa-like webgame
+---
 
-This is the repository for the final project of the Logical Analysis of Language course in Spring 2025. The project is a web game that allows users to pick up a language without any prior knowledge.
+This is the repository for the final project of the Logical Analysis of Language course at NTU in Spring 2025. The project is a web game that allows users to pick up a language without any prior knowledge.
 
 To run the project, follow these steps:
 
@@ -16,7 +18,7 @@ cd LAL_Final_Spring25
 pip install -r requirements.txt
 ```
 
-3. Add your Gemini API key to the `.env` file:
+3. Add your own Gemini API key to the `.env` file:
 ```bash
 echo "GEMINI_API_KEY=your_api_key_here" > .env
 ```
