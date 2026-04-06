@@ -1,6 +1,8 @@
 # No Translation!
+
 A Gemini-powered Viossa-like webgame
----
+
+## Usage
 
 This is the repository for the final project of the Logical Analysis of Language course at NTU in Spring 2025. The project is a web game that allows users to pick up a language without any prior knowledge.
 
